@@ -22,7 +22,7 @@ const HomePage = () => {
                 </div>
             </div>
             <div>
-                <h1>Customar Review: {reviews.length}</h1>
+                <h1>Customar Review: {reviewData.length}</h1>
                 <div className='grid grid-cols-3'>
                     {
                         reviewData.map(data => <Review data={data} key={data.id}></Review>)
