@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import HeroImage from '../../HeroImage/watch.jpg'
 import useReview from '../../Hooks/useReview';
 import Review from '../Review/Review';
@@ -17,7 +18,7 @@ const HomePage = () => {
                         consectetur adipisicing elit. Quia,
                         iure!</p>
                 </div>
-                <div className='flex justify-center h-[550px]'>
+                <div className='flex justify-center h-[500px]'>
                     <img src={HeroImage} alt="" />
                 </div>
             </div>
@@ -28,6 +29,8 @@ const HomePage = () => {
                         reviewData.map(data => <Review data={data} key={data.id}></Review>)
                     }
                 </div>
+                <Link to="/reviews">Review More</Link>
+                
             </div>
         </div>
     );
