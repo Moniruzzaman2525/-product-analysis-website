@@ -3,42 +3,48 @@
         "id": 1,
         "picture": "https://img.freepik.com/free-photo/young-male-looking-pink-t-shirt-looking-cheerful-front-view_176474-84436.jpg?w=900&t=st=1649010367~exp=1649010967~hmac=0148b212210867ccaa7491a5c0d28325c86c07a84bab4cc8a053b88f16b4338e",
         "name": "Yvette Terry",
-        "date": "+1 (929) 445-2970",
+        "phone": "+1 (929) 445-2970",
+        "ratting": "4",
         "review": "Ut sint incididunt eu tempor mollit pariatur exercitation incididunt. Amet est voluptate ad aliquip et magna fugiat non id non cillum in. Velit pariatur veniam irure tempor dolor aute. Do enim pariatur laboris aute aute laborum. Mollit ut duis velit in mollit adipisicing in consequat. Non in id labore veniam laborum esse aliquip exercitation aliqua fugiat officia nulla ea cillum. Culpa tempor laborum sint dolore laborum aliquip tempor tempor qui reprehenderit aliqua excepteur incididunt.\r\n"
     },
     {
         "id": 2,
         "picture": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=900&t=st=1649010281~exp=1649010881~hmac=b55ca70a55176c8d55d0e2365ded37a3e7f856e1c1313d194063271c951956b2",
         "name": "Jones Ochoa",
-        "date": "+1 (950) 590-2068",
+        "phone": "+1 (950) 590-2068",
+        "ratting": "5",
         "review": "Incididunt non eu non amet do sint ea ut nulla cillum. Dolor qui quis cupidatat reprehenderit sunt minim deserunt. Est enim occaecat esse excepteur cupidatat excepteur consequat cillum anim incididunt voluptate ullamco. Aliqua non amet incididunt cillum magna excepteur sunt. Aliquip mollit cupidatat mollit consequat excepteur officia nulla magna qui ullamco est occaecat consectetur.\r\n"
     },
     {
         "id": 3,
         "picture": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg?w=900&t=st=1649010455~exp=1649011055~hmac=d22377d46972f346cae6543fc0080c57079b8cf7b5e5ac1b8229ff97846f8a0a",
         "name": "Amelia Richards",
-        "date": "+1 (998) 494-3401",
+        "phone": "+1 (998) 494-3401",
+        "ratting": "4.5",
         "review": "Non dolore labore velit voluptate sint culpa elit ut ad Lorem qui laborum labore. Id officia occaecat consectetur cillum ad incididunt magna incididunt ea. Reprehenderit velit dolore ipsum enim esse do veniam dolore. Ut et labore anim in proident. Aliquip laborum voluptate duis quis enim adipisicing anim sint. Laborum ea proident velit in deserunt aliquip proident dolor eiusmod irure anim Lorem. Et aute dolore Lorem id id consectetur anim et minim nisi.\r\n"
     },
     {
         "id": 4,
         "picture": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=900&t=st=1649010258~exp=1649010858~hmac=9c24b5c7743196b79b28696b79e49c00f06a38b5a316ffc09a51481a8d6632ab",
         "name": "Hilary Burt",
-        "date": "+1 (878) 492-3617",
+        "phone": "+1 (878) 492-3617",
+        "ratting": "3.5",
         "review": "Nisi ex magna cillum qui laborum officia ipsum quis id occaecat reprehenderit aliquip esse. Pariatur ut minim elit proident magna veniam fugiat proident nisi quis adipisicing. Exercitation elit enim mollit sit consequat eu. Pariatur ad amet pariatur sint sit dolor do velit eiusmod laboris aute eu sit laborum. Duis aliqua incididunt non esse nulla nulla velit eu anim quis Lorem consectetur. Ullamco veniam nostrud excepteur pariatur Lorem amet dolor.\r\n"
     },
     {
         "id": 5,
         "picture": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?w=900&t=st=1649010363~exp=1649010963~hmac=9fb2a7138af89940265bc5bbe6142358d1d08762e93ea8ed610aa529bf7504ce",
         "name": "Lauri Terrell",
-        "date": "+1 (967) 460-2655",
+        "phone": "+1 (967) 460-2655",
+        "ratting": "4",
         "review": "Ipsum nulla labore quis ea culpa. Excepteur ex tempor laboris consequat incididunt qui excepteur sunt cillum magna dolor labore nisi. Ut nulla officia ex qui officia adipisicing magna eu veniam qui dolore.\r\n"
     },
     {
         "id": 6,
         "picture": "https://img.freepik.com/free-photo/photo-attractive-ginger-man-with-satisfied-expression-has-thick-beard_273609-18615.jpg?w=900&t=st=1649010313~exp=1649010913~hmac=b4af9541664f685a532d3dc9daa76ce7c0da0ebd054723a529e16b1bb4923cf8",
         "name": "Mable Miranda",
-        "date": "+1 (846) 568-3446",
+        "phone": "+1 (846) 568-3446",
+        "ratting": "5",
         "review": "Proident sit qui sit magna in deserunt excepteur excepteur officia consectetur in tempor amet. In adipisicing do consectetur magna sit ut ea officia enim laborum sunt. Velit eiusmod labore et ut dolor voluptate.\r\n"
     }
 ]
