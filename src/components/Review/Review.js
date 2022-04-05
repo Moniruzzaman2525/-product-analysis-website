@@ -11,7 +11,7 @@ const Review = ({ data }) => {
             <p className='text-2xl font-bold py-4'>{name}</p>
             <p>{phone}</p>
             <p>{review}</p>
-            <p className='flex gap-2 mt-8'>
+            <div className='flex gap-2 mt-8'>
                 <span className='font-bold'>{ratting}</span>
                 <div className='flex p-1'>
                     <StarIcon className='w-4 h-4 text-green-400	'></StarIcon>
@@ -21,7 +21,7 @@ const Review = ({ data }) => {
                     <StarIcon className='w-4 h-4 text-green-400	'></StarIcon>
                 </div>
                 <span className='font-bold'>{date}</span>
-            </p>
+            </div>
         </div>
     );
 };

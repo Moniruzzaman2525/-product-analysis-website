@@ -11,7 +11,7 @@ const CustomarReview = ({ data }) => {
             <p className='text-2xl font-bold py-2'>{name}</p>
             <p className='text-xl py-2'>Mobile: {phone}</p>
             <p className='italic text-xl'>{review}</p>
-            <p className='flex gap-2 mt-8'>
+            <div className='flex gap-2 mt-8'>
                 <span className='font-bold'>{ratting}</span>
                 <div className='flex p-1'>
                     <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
@@ -21,7 +21,7 @@ const CustomarReview = ({ data }) => {
                     <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
                 </div>
                 <span className='font-bold'>{date}</span>
-            </p>
+            </div>
         </div>
     );
 };
