@@ -14,11 +14,11 @@ const CustomarReview = ({ data }) => {
             <p className='flex gap-2 mt-8'>
                 <span className='font-bold'>{ratting}</span>
                 <div className='flex p-1'>
-                    <StarIcon className='w-4 h-4'></StarIcon>
-                    <StarIcon className='w-4 h-4'></StarIcon>
-                    <StarIcon className='w-4 h-4'></StarIcon>
-                    <StarIcon className='w-4 h-4'></StarIcon>
-                    <StarIcon className='w-4 h-4'></StarIcon>
+                    <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
+                    <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
+                    <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
+                    <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
+                    <StarIcon className='w-4 h-4 text-green-400'></StarIcon>
                 </div>
                 <span className='font-bold'>{date}</span>
             </p>
